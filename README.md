@@ -1,7 +1,7 @@
 # FoodClaimsProcess
 Practical Exam from Datacamp for the Data Analyst Associate Certification
 
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/WorldCupResults)
+- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/FoodClaimsProcess)
 
 **Instructions**
 
