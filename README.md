@@ -20,7 +20,7 @@ The head of the legal department wants a report on how each location differs in 
 
 The dataset contains one row for each claim.
 
-| First Header  | Second Header |
+| Column Name   |   Criteria    |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
