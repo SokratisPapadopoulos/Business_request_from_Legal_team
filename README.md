@@ -22,5 +22,11 @@ The dataset contains one row for each claim.
 
 | Column Name   |   Criteria    |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| claim_id  | Nominal. The unique identifier of the claim. Missing values are not possible due to the database structure.|
+| time_to_close  | Content Cell  |
+| claim_amount  | Content Cell  |
+| amount_paid  | Content Cell  |
+| location  | Content Cell  |
+| individuals_on_claim  | Content Cell  |
+| linked_cases  | Content Cell  |
+| cause  | Content Cell  |
