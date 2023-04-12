@@ -1,6 +1,8 @@
 # FoodClaimsProcess
 Practical Exam from Datacamp for the Data Analyst Associate Certification
 
+- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/WorldCupResults)
+
 **Instructions**
 
 ●	Use any tools that you are comfortable with to perform the tasks required (for example Tableau, Power BI, MS Excel, Python, R).    
