@@ -10,7 +10,8 @@ Instructions
 ●	You do not need to include any code.
 ●	You must pass all criteria to pass this exam. The full criteria can be found here.
 
-Background
+**Background**
+
 Vivendo is a fast food chain in Brazil with over 200 outlets.
 Customers often claim compensation from the company for food poisoning.
 The legal team processes these claims. The legal team has offices in four locations.
