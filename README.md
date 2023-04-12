@@ -16,4 +16,11 @@ The legal team processes these claims. The legal team has offices in four locati
 The legal team wants to improve how long it takes to reply to customers and close claims.  
 The head of the legal department wants a report on how each location differs in the time it takes to close claims.
 
+**Data**
 
+The dataset contains one row for each claim.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
