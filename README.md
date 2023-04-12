@@ -1,8 +1,6 @@
 # FoodClaimsProcess
 Practical Exam from Datacamp for the Data Analyst Associate Certification
 
-##Food Claims Process##
-
 **Instructions**  
 ●	Use any tools that you are comfortable with to perform the tasks required (for example Tableau, Power BI, MS Excel, Python, R).  
 ●	Write your solutions in the workspace provided from your certification page.  
