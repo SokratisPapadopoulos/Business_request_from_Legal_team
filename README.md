@@ -1,6 +1,6 @@
 # FoodClaimsProcess
 
-- [View the complete data analysis process](https://blossom-kookaburra-40c.notion.site/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=690fc5f185e34266b94f9b8f181017b4&pm=c)
+- [View the complete data analysis process](https://www.notion.so/sokratispapadopoulos/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=690fc5f185e34266b94f9b8f181017b4&pm=c)
 
 **Instructions**
 
